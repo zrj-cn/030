@@ -51,7 +51,7 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/dudu.jpeg',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/dudu.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Rujie Zheng',
   bio: '我在世上只懂一点真髓：不管斟满的是什么，都要干杯！',
   links: [
